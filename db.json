@@ -1,4 +1,4 @@
-{"data":[   
+{"recipes": {"data":[   
     {
         "name": "Roasted Asparagus",
         "id":1,
@@ -26,4 +26,4 @@
             "Put the flour and some seasoning into a large bowl.\n Stir in eggs, one at a time.\n Whisk in milk until you have a smooth batter.\n Chill in the fridge for at least 30 minutes.\n Heat oven to 220C/gas mark 7.\n Pour the oil into the holes of a 8-hole muffin tin.\n Heat tin in the oven for 5 minutes.\n Ladle the batter mix into the tin.\n Bake for 30 minutes until well browned and risen.",       
         "imageURL": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg"        
     }
-]}
+]}}
