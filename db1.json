@@ -1,4 +1,4 @@
-{"box":[   
+[   
     {
         "name": "Test 1",
         "Type":"A"
@@ -8,4 +8,4 @@
        "name": "Test 2",
        "Type":"B" 
     }
-]}
+]
